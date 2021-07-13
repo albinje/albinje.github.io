@@ -14,6 +14,7 @@ My name is Albin Joseph, I am a doctoral candidate working on observational cosm
 ![](https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=F37626)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=019733)
 
+<br />
 
 ### Languages and Tools:
 
