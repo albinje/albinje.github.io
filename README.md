@@ -1,5 +1,5 @@
 ### Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
-My name is Albin Joseph, I am a postdoctoral research scholar working on observational cosmology at [Arizona State University](https://www.asu.edu/). My research areas include 21cm intensity mapping, CMB data analysis, observational constraints on the dark energy models, exact solutions of cosmological models and applying machine learning techniques in the cosmological scenarios. I enjoy physics, coding in different languages and GPU computing. Other than that, I love adventure and also a passionate badminton player.
+My name is Albin Joseph, I am a postdoctoral research scholar working on observational cosmology at [Arizona State University](https://www.asu.edu/). My research areas include 21cm intensity mapping, CMB data analysis, observational constraints on the dark energy models, and applying machine learning techniques in the cosmological scenarios. I enjoy physics, coding in different languages and GPU computing. Other than that, I love adventure and also a passionate badminton player.
 
 ### Some of my favourite tools
 
